@@ -214,10 +214,10 @@ q:before, q:after
 #footer
 {
     clear: both;
-    margin: 1em 0 0 90%;
+    margin: 1em 0 0 85%;
     padding: 0;
-    background-color:#FFFFFF;
-    text-align:center;
+    background-color: #FFFFFF;
+    text-align: center;
 }
 
 #footer p
