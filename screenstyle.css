@@ -218,6 +218,17 @@ h1
     margin: 0 0 2em 0;
 }
 
+#content #bowling-thumbnail-veranst
+{
+    margin: 10px 0 0 50px;
+}
+
+#content #bowling-thumbnail
+{
+    float: right;
+    margin: 10px 20px;
+}
+
 /* +++ Start of Footer Section +++ */
 
 #footer
