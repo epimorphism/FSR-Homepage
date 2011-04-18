@@ -54,6 +54,10 @@ h1
     text-align: right;
     color: #FFFFFF;
     padding: 0.3em;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    -moz-border-radius-topright: 8px;
+    -moz-border-radius-topleft: 8px;
 }
 
 .mainheader
@@ -64,6 +68,10 @@ h1
     background-repeat:no-repeat;
     background-position:right top;
     background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    -moz-border-radius-bottomright: 8px;
+    -moz-border-radius-bottomleft: 8px;
 }
 
 .subheader
@@ -86,6 +94,7 @@ h1
 
 #logo-img
 {
+    color: white;
     margin: 0;
     padding: 0.5em;
 }
@@ -119,6 +128,10 @@ h1
     font-weight: normal;
     font-family: "trebuchet ms", "lucida sans", arial, sans-serif;
     font-size: 120%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    -moz-border-radius-topright: 8px;
+    -moz-border-radius-topleft: 8px;
 }
 
 .nav
@@ -127,6 +140,10 @@ h1
     padding: 0;
     list-style-type: none;
     background-color: #FFFFFF;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    -moz-border-radius-bottomright: 8px;
+    -moz-border-radius-bottomleft: 8px;
 }
 
 .nav li
@@ -165,6 +182,14 @@ h1
     padding: 1em;
     background-color: white;
     min-height: 33em;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    -moz-border-radius-topright: 8px;
+    -moz-border-radius-topleft: 8px;
+    -moz-border-radius-bottomright: 0;
+    -moz-border-radius-bottomleft: 8px;
 }
 
 #content img
@@ -177,7 +202,7 @@ h1
 
 #content h1
 {
-    margin: 0 0 1em 0;
+    margin: 0 0 0.3em 0;
 }
 
 #content h2
@@ -193,20 +218,15 @@ h1
     margin: 0 0 2em 0;
 }
 
-q
+#content #bowling-thumbnail-veranst
 {
-    display:block;
-    margin:0;
-    padding:0.4em 20% 0.6em 20%;
-    color:#999999;
-    font-size:120%;
-    text-align:center;
-    height:3em;
+    margin: 10px 0 0 50px;
 }
 
-q:before, q:after
+#content #bowling-thumbnail
 {
-    content: "";
+    float: right;
+    margin: 10px 20px;
 }
 
 /* +++ Start of Footer Section +++ */
@@ -214,10 +234,15 @@ q:before, q:after
 #footer
 {
     clear: both;
-    margin: 1em 0 0 85%;
+    margin-bottom: 1em;
+    float: right;
     padding: 0;
     background-color: #FFFFFF;
     text-align: center;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    -moz-border-radius-bottomleft: 4px;
+    -moz-border-radius-bottomright: 4px;
 }
 
 #footer p
@@ -226,6 +251,7 @@ q:before, q:after
     color: #999999;
     margin: 0;
     padding: 0.3em;
+    border-top: 0.4em dotted #ff8c38;
 }
 
 #footer a
