@@ -76,7 +76,7 @@ h3
     margin:0;
     padding: 1em;
     background-color: white;
-    background-image:url(headbg_1.jpg);
+    background-image:url(files/headbg_1.jpg);
     background-repeat:no-repeat;
     background-position:right top;
     border-bottom-right-radius: 8px;
@@ -191,6 +191,7 @@ h3
     padding: 1em;
     background-color: white;
     min-height: 420px;
+    min-width: 740px;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 0;
     border-bottom-left-radius: 8px;
