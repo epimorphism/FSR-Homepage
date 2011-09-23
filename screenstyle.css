@@ -73,8 +73,9 @@ h3
 
 .mainheader
 {
-    margin:0;
+    margin: 0 0 20px 0;
     padding: 1em;
+    height: 100px;
     background-color: white;
     background-image:url(files/headbg_1.jpg);
     background-repeat:no-repeat;
@@ -87,11 +88,12 @@ h3
 
 .subheader
 {
-    margin: 0;
+    display: block;
+    margin: -70px 0 0 0;
     padding: 0.5em;
-    font-size: 20px;
-    text-align:center;
-    color: white;
+    font-size: 24px;
+    text-align: center;
+    color: #25354A;
 }
 
 #logo-c
@@ -111,6 +113,7 @@ h3
 
 #logo-subtext
 {
+    display: block;
     padding: 0;
     margin: 0;
     font-size: 20px;
@@ -187,7 +190,7 @@ h3
 
 #content
 {
-    margin: 0 0 0 26em;
+    margin: 0 0 0 370px;
     padding: 1em;
     background-color: white;
     min-height: 420px;
