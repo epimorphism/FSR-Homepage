@@ -252,13 +252,48 @@ h3
 
 img.xkcd
 {
-    float: right;
     margin-left: 1em;
     margin-bottom: 1em;
+    padding: 4px;
 }
 
 #fachrateinzeltab
 {
+}
+
+/* +++ Start Of News Section +++ */
+
+#news
+{
+    margin: 0 0 10px 0;
+    padding: 0em;
+    background-color: #F9F9F9;
+    border-style: none;
+    border-width: 1px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-left-radius: 8px;
+    -moz-border-radius-topright: 8px;
+    -moz-border-radius-topleft: 8px;
+    -moz-border-radius-bottomright: 8px;
+    -moz-border-radius-bottomleft: 8px;
+}
+
+#news h1
+{
+    background-color: #857B5D;
+    margin: 0 0 5px 0;
+    padding: 2px;
+    display: block;
+    color: white;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    -moz-border-radius-topright: 8px;
+    -moz-border-radius-topleft: 8px;
 }
 
 /* +++ Start of Footer Section +++ */
