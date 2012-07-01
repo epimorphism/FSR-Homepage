@@ -1,0 +1,131 @@
+<!doctype html>
+
+<html>
+
+  <!--#include file="head.html" -->
+
+  <body>
+    <div class="wholepage">
+
+      <!--#include file="header.html" -->
+
+      <div id="sidecontainer">
+        <h2>Navigation</h2>
+        <ul class="nav">
+          <li><a href="#">Home</a></li>
+          <li><a href="fachrat.html">Fachschaftsrat</a></li>
+          <li><a href="klausuren.html">Klausuren</a></li>
+          <li><a href="veranst.html">Veranstaltungen</a></li>
+          <li><a href="studium.html">Studium</a></li>
+          <li><a href="freimeer.html">Freizeit und Meer</a></li>
+          <li><a href="archiv.html">Archiv</a></li>
+          <li><a href="kontakt.html">Kontakt</a></li>
+        </ul>
+
+        <!--#include file="links.html" -->
+
+      </div>
+
+      <div id="content">
+
+	<div id="news">
+	<h1>Nächste Sitzung</h1>
+	<p class="absatz">
+	  Die nächste Sitzung des Fachschaftsrates findet statt am: 03.06.2012 um 19:00 Uhr in Raum 021, Haus 3.
+	</p>
+	</div>
+
+	<div id="news">	
+	<center>
+	<a href="http://xkcd.com/"><img src="files/purity.png" class="xkcd" width="600" title="xkcd 435" /></a>	
+	</center>
+	</div>
+
+	<div id="news">
+	<h1>Rettet den Freiversuch!</h1>
+	<p class="absatz">
+	Liebe Kommilitoninnen und Kommilitonen,<img src="bilder/freiversuch.jpg" align="right" width="200">
+	</p>
+	<p class="absatz">
+	in einer dringenden und ernsten Angelegenheit wenden wir uns an euch und hoffen auf eure Unterstützung.
+	</p>
+	<p class="absatz">
+	<b>Der Freiversuch ist in Gefahr!</b>
+	</p>
+	<p class="absatz">
+	In der Senatssitzung am 06.06.2012 wird darüber entschieden, ob der Freiversuch in der Rahmenprüfungsordnung der Universität erhalten bleibt oder nicht. <b>Diese Entscheidung gilt für die zukünftigen Bachelor- und Masterstudiengänge und für alle zukünftigen Lehramtsstudiengänge</b>.
+	</p>
+	<p class="absatz">
+	Würde der Freiversuch wegfallen, so würde man nur noch maximal 3 Prüfungsversuche haben und auch eine <b>Notenverbesserung würde dann entfallen</b>.
+	</p>
+	<p class="absatz">
+	Um dies zu verhindern, planen wir und alle Fachschaftsräte der Mathematisch-Naturwissenschaftlichen Fakultät eine Unterschriftenaktion, um den Gegnern des Freiversuches im Senat zu zeigen, dass wir den Freiversuch brauchen und behalten wollen.
+	</p>
+	<p class="absatz">
+	An folgenden Tagen stehen wir, euer Fachschaftsrat, auf dem Campus Ulmenstraße und sammeln Unterschriften:
+	</p>
+	<ul>
+	<li>Dienstag 29.05.2012 von 12-15 Uhr,</li>
+	<li>Mittwoch 30.05.2012 von 13-15 Uhr und</li>
+	<li>Freitag 01.06.2012 von 11-13 Uhr</li>
+	</ul>
+	<p class="absatz">
+	<b>Wir bitten euch uns zu unterstützen</b> und bitten euch zu den Terminen zu kommen und uns mit eurer Unterschrift zu helfen. Verbreitet bitte diese Aktion wir freuen uns auf jegliche Hilfe.
+	</p>
+	<p class="absatz">
+	Für weitere Informationen schaut auf folgenden Seiten nach:
+	</p>
+	<ul>
+	<li><a href="https://www.facebook.com/freiversuch.retten" target="_blank">https://www.facebook.com/freiversuch.retten</a></li>
+	<li><a href="http://www.asta.uni-rostock.de/" target="_blank">http://www.asta.uni-rostock.de/</a></li>
+	</ul>
+	
+	<p class="absatz">
+	Liebe Grüße, euer
+	</p>
+	<p class="absatz">
+	SIGMA-Fachschaftsrat Mathematik
+	</p>
+	</div>
+
+	<div id="news">
+	<h1>Tag der Mathematik</h1>
+	<p class="absatz">
+	Der <b>2.6.2012</b> steht wieder ganz im Zeichen der Mathematik. Am <b>Tag der Mathematik</b> können sich Jung und Alt wieder an Knobelaufgaben versuchen oder spannenden Vorträgen lauschen.Es wird ein buntes Programm geben für das wir immer noch Helfer aller Art suchen. Wer sich gerne beteiligen möchte, kann sich einfach per Mail bei uns melden. Man kann sich auf vielfältige Art an diesem Tag einbringen.
+	</p>
+	</div>
+
+	<div id="news">
+	<h1>Mathematiker Party</h1>
+	<table>
+	<tr>
+	<td><img src="files/party.jpg" width="200"/></td>
+	<td>
+	<p class="absatz">
+	Und wieder einmal ist es soweit. Die allseits beliebte <b>Mathematiker Party</b> startet im ST. Am <b>30.05.2012</b> ab 21 Uhr geht es für Mathematiker für nur 2 Euro los. Alle anderen sind für 3 Euro dabei. Auf euch warten 80 Liter Freibier und 14 Liter Freisekt. Auch musikalisch geht es wieder rund. Wie auch letztes Mal könnt ihr <a href="http://www.trivialanalog.de/hightunes" target="_blank">hier</a> wieder eure Wunschbands pushen und so selber bestimmen, ob der Abend ein Erfolg wird. Wir freuen uns auf euch!
+	</p>
+	<p class="absatz">
+	Euer Fachschaftsrat Mathematik.
+	</p>
+	</td>
+	</tr>
+	</table>
+	</div>
+
+	<div id="news">
+	<h1>MNF Party im ST</h1>
+	<p class="absatz">
+	Die Fachschaften der Mathematisch-Naturwissenschaftlichen Fakultät veranstalten am Mittwoch, den <b>09. Mai 2012</b> wieder eine furiose <b>MNF Party</b> im ST. Hierzu sind alle Studierenden und Nichtstudierenden herzlich eingeladen. Ab <b>21:30 Uhr</b> können Mathematiker, Physiker, Biologen und Chemiker in Partylaune beobachtet werden. Der Eintritt liegt für MNF-Studenten bei 1,50 Euro, für andere Studierende bei 2 Euro, für Nichtstudierende bei 2,50 Euro. Für die ersten 100 Gäste gibt es eine hohe Chance auf ein Freigetränk. Wir freuen uns auf euch!
+	</p>
+	<p class="absatz">
+	Euer Fachschaftsrat Mathematik.
+	</p>
+	</div>
+
+      </div>
+
+      <!--#include file="footer.html" -->
+
+    </div>
+  </body>
+</html>
